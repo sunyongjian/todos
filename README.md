@@ -3,7 +3,7 @@
 
 ### high
 - [ ] [mock-koa](https://github.com/sunyongjian/mock-koa)
-
+简单版的已经实现，对 koa 也大概了解，不过还有几个功能没实现，很多细节还待深入挖掘，继续看源码。
 ### general
 - [ ] blog [issue-34](https://github.com/sunyongjian/blog/issues/34) 
 
