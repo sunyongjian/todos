@@ -4,6 +4,8 @@
 ### high
 - [x] [mock-koa](https://github.com/sunyongjian/mock-koa)
 
+2017-12-12 done
+
 简单版的已经实现，对 koa 也大概了解，不过还有几个功能没实现，很多细节还待深入挖掘，继续看源码，然后写个源码解析
 ### general
 - [ ] blog [issue-34](https://github.com/sunyongjian/blog/issues/34) 
