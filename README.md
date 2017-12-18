@@ -14,3 +14,4 @@
 - [ ] 依赖收集（vue，mobx）
 - [ ] 依赖注入
 - [ ] 结合以上，实现一个小的 mobx，react-mobx 的 library
+- [ ] 研究一下如何去写一个 webpack-plugin, 并优雅的解决 dll 的一个问题
