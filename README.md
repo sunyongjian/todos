@@ -15,6 +15,7 @@
 - [ ] 依赖注入
 - [ ] 结合以上，实现一个小的 mobx，react-mobx 的 library
 - [x] 研究一下如何去写一个 webpack-plugin, 并优雅的解决 dll 的一个问题
+
 写了半天，去寻找思路的时候，突然发现有一个 `html-webpack-include-assets-plugin` plugin，算是跟自己想要的结果差不多，就没有必要重复造了。读取 dll 生成的 manifest.json 里 chunkname 即提取的 js 文件名，并插入 html 里。
 
 使用：
