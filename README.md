@@ -10,11 +10,14 @@
 
 
 - [x]  做一次 React 状态管理的分享。redux，mobx 实践，优化点，对比
-
 2018-01-12 done
 
+- [ ] 状态管理文章总结
+
 ### general
+
 - [ ] blog [issue-34](https://github.com/sunyongjian/blog/issues/34) 
+- [ ] 探究模块加载器，实现一个简单的 requirejs
 
 ### low 
 - [ ] 依赖收集（vue，mobx）
@@ -31,3 +34,5 @@ new HtmlIncludeAssetsPlugin({
   append: false //append vendor.js to html
 })
 ```
+- [ ] ansible 引入项目的自动部署脚本
+- [ ] 写一个自己用的 React cli
