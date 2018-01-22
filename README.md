@@ -17,7 +17,7 @@
 ### general
 
 - [ ] blog [issue-34](https://github.com/sunyongjian/blog/issues/34) 
-- [ ] 探究模块加载器，实现一个简单的 [requirejs](https://github.com/IM2A/require)
+- [ ] 探究模块加载器，实现一个简单的 [requirejs](https://github.com/IM2A/requirejs)
 
 ### low 
 - [ ] 依赖收集（vue，mobx）
