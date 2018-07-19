@@ -15,7 +15,7 @@
 - [x] 状态管理文章总结
 
 - [x] 过年的我好懒，各种不学习不编码，commit 各种空白。补交 commit
-- [ ] node 学习总结系列 -- event loop，并在团队分享
+- [x] node 学习总结系列 -- event loop，并在团队分享
 
 ### general
 - [ ] node 学习总结系列 -- stream
@@ -39,4 +39,4 @@ new HtmlIncludeAssetsPlugin({
 })
 ```
 - [ ] ansible 引入项目的自动部署脚本
-- [ ] 写一个自己用的 React cli
+- [x] 写一个自己用的 React cli
